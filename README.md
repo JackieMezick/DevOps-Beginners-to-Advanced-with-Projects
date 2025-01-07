@@ -15,3 +15,7 @@ If I learn nothing else from this course, I’m grateful I learned this. It was 
 
 
 ## Automatic VM Setup 
+
+Using the command line on MacOs, I used Vagrant to automatically spin up CentOS and Ubuntu VMs.
+
+Vagrant addresses a few issues that come with manually setting up a VM. It requires less steps, it's less time consuming, and it reduces human error.
